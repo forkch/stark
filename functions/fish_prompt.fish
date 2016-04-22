@@ -16,7 +16,7 @@ function fish_prompt
         end
     end
 
-    if set -l last_job_id (last_job_id)
+    if set -l last_job_id (last_job_id -l)
         segment fc0 222 " ٪$last_job_id "
         segment black black
     end
