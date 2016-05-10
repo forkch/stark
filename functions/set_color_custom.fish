@@ -8,7 +8,7 @@ function set_color_custom
     set -U fish_color_escape                c00
     set -U fish_color_operator              fc0
     set -U fish_color_end                   c00
-    set -U fish_color_quote                 c00
+    set -U fish_color_quote                 ff9
     set -U fish_color_autosuggestion        555
     set -U fish_color_valid_path            --underline
     set -U fish_color_cwd                   fc0
