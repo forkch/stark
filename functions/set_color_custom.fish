@@ -2,13 +2,13 @@ function set_color_custom
     set -U fish_color_normal                normal
     set -U fish_color_command               fc0
     set -U fish_color_param                 eee
-    set -U fish_color_redirection           c00
+    set -U fish_color_redirection           fff
     set -U fish_color_comment               444
     set -U fish_color_error                 555
     set -U fish_color_escape                c00
     set -U fish_color_operator              fc0
     set -U fish_color_end                   c00
-    set -U fish_color_quote                 ff9
+    set -U fish_color_quote                 ccc
     set -U fish_color_autosuggestion        555
     set -U fish_color_valid_path            --underline
     set -U fish_color_cwd                   fc0
